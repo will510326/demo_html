@@ -1,0 +1,26 @@
+#container {
+    width: 80%;
+    margin: 0px auto;
+}
+
+img {
+    text-align: center;
+    margin: 0px auto;
+}
+
+table {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 12px;
+    height: 300px;
+}
+
+table th {
+    background-color: bisque;
+}
+
+.center {
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
